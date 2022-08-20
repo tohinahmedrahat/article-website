@@ -3,6 +3,7 @@ import gentalmen from "../../imges/untitled.png";
 
 const Authors = () => {
   return (
+    // authors component
     <div className="w-3/4 mx-auto mt-5">
       <h1 className="text-white text-2xl">Amazing authors to follow</h1>
       <div className="">

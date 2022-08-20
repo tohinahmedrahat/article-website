@@ -4,6 +4,7 @@ import icon from '../../imges/icon.png'
 
 const Blogs = () => {
     return (
+        // blog component
         <div className='w-3/4 mx-auto mt-5'>
             <section className='p-2 bg-white'>
                 

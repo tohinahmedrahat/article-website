@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Component/Header/Header';
 import ShortStory from './Component/ShortStory/ShortStory';
@@ -11,6 +10,7 @@ import Follwo from './Component/Follwo/Follwo';
 function App() {
   return (
     <div >
+      {/* import all component app js file */}
       <Header></Header>
       <ShortStory></ShortStory>
       <FullStory></FullStory>

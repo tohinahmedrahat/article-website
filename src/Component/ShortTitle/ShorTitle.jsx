@@ -4,6 +4,7 @@ import icon from '../../imges/icon.png'
 
 const ShorTitle = () => {
     return (
+        // short title section
         <div>
             <div className='w-3/4 mx-auto mb-5'>
             <div className='mt-5 p-3 bg-white shadow rounded'>

@@ -7,6 +7,7 @@ import icon from '../../imges/icon.png'
 
 const ShortStory = () => {
     return (
+        // short story section
         <div className='w-3/4 mx-auto mb-5'>
             <div className='flex mt-5 p-3 bg-white shadow rounded'>
                 <div className='w-3/4   p-4'>

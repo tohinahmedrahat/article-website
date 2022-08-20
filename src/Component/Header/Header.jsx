@@ -4,6 +4,7 @@ import img from '../../imges/Layer_1.png'
 
 const Header = () => {
     return (
+        // header section
         <div className='bg-slate-800 text-white p-2'>
             <span className='flex justify-center'>
                 <img className='h-16 rounded-full' src={img} alt="" />
